@@ -159,3 +159,6 @@
 **价格列表**\
 
 ![图片说明](./images/xiyouyun.png)
+
+# Happy猫-VPN
+[👉 Happy猫-VPN 官网注册入口](https://www.happymao.cat/#/register?code=11F30aL4)
