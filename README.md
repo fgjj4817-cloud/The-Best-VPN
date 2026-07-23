@@ -125,7 +125,7 @@
 # 西游云-VPN
 [👉 西游云-VPN 官网注册入口](https://d.xiyou666.xyz/?code=InJTpo14)
 
-**专为大陆用户打造的高速、稳定的网络连接服务**\
+**专为大陆用户打造的高速、稳定的网络连接服务**
 
 无论是工作还是娱乐，使用我们的互联网加速服务，确保您畅享全球内容。让您不再受地域限制，随时访问全球热门应用。\
 全面解锁全球网络：包括不限于 YouTube、Google、Twitter、ChatGPT、Netflix 等被封禁的网站。\
@@ -162,3 +162,7 @@
 
 # Happy猫-VPN
 [👉 Happy猫-VPN 官网注册入口](https://www.happymao.cat/#/register?code=11F30aL4)
+
+**价格列表**\
+
+![图片说明](./images/happycat.png)
