@@ -166,3 +166,10 @@
 **价格列表**\
 
 ![图片说明](./images/happycat.png)
+
+# 农夫山泉-VPN
+[👉 农夫山泉-VPN 官网注册入口](https://a02.nfsqvipaffa01.cc/#/register?code=ZJ2nDpAD)
+
+**价格列表**\
+
+![图片说明](./images/nfsq.png)
