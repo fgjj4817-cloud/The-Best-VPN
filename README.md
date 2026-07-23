@@ -44,7 +44,7 @@
 **主要特点包括：**
 包月不限流量，流量稳定安全。
 
-流媒体解锁：支持解锁ChatGPT、YouTube、Netflix等流媒体，提供8K视频观看体验。
+流媒体解锁：支持解锁ChatGPT、YouTube、Netflix、facebook、x等流媒体，提供流畅视频观看体验。
 
 AI解锁：高速访问ChatGPT、Gemini、Claude、Midjourney、Perplexity；Cursor、Codex、Google Antigravity等生产力平台
 
@@ -73,4 +73,21 @@ AI解锁：高速访问ChatGPT、Gemini、Claude、Midjourney、Perplexity；Cur
 # 夜煞云-VPN
 [👉 夜煞云-VPN 官网注册入口](https://www.night-furyx.com/#/register?code=CgihWgEj)
 
+**主要特点包括：**
+价格低，流量大。
 
+流媒体解锁：支持解锁ChatGPT、YouTube、Netflix、facebook、x等流媒体，提供流畅视频观看体验。
+
+AI解锁：高速访问ChatGPT、Gemini、Claude、Midjourney、Perplexity；Cursor、Codex、Google Antigravity等生产力平台
+
+客户服务：24小时在线客服支持，提供快速响应的技术帮助。
+
+性价比高：价格亲民，适合预算有限的用户，获得高性价比的网络服务。
+
+稳定性高：采用先进技术，确保网络连接稳定，适合长期使用。
+
+复购率高：深受用户喜爱，复购率很高，表明其服务质量和用户满意度。
+
+私密性强：提供高速、私密的网络服务，适合外贸公司、科研人员和科技博主等用户。
+
+客户端支持：自研专属客户端，操作简单，适合新手用户使用。
