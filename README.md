@@ -2,7 +2,7 @@
 ## 目前最好用的vpn，实施动态更新
 翻墙梯子（俗称机场）是按流量与线路质量收费的付费代理订阅服务；与商业 VPN 相比，线路选择更灵活，是国内长期跨境访问的主流方案之一。下面这份指南覆盖 40 余款主流机场，按连接稳定性、速度、性价比、流媒体与 AI 解锁能力综合评测，并每周核对价格与跑路情况，帮你按预算和用途选定。
 
-收录：[星驰](https://invite.xingch.live?code=5511564)、[夜煞云](https://invite.xingch.live?code=5511564)、星云、[星辰VPN](https://c.kilxs.cn/?code=DeDcM2lQ)、[西游云](https://d.xiyou666.xyz/?code=InJTpo14)、[happy猫](https://www.happymao.cat/#/register?code=11F30aL4)、农夫山泉、狗狗加速、Cloud-VPN、WgetCloud、大哥云、Bitz Net、星链云、SSRDOG、杨帆云、极客云、fastlink、泰山、NiceDuck、奶昔（Nexitally）、CyberGuard、白月光、狗狗加速、闪电、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、CAC Apex、夜煞云、YToo歪兔、肥猫云、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Cylink次元链接、Coffee Cloud咖啡云 等。
+收录：[星驰](https://invite.xingch.live?code=5511564)、[夜煞云](https://www.night-furyx.com/#/register?code=CgihWgEj)、星云、[星辰VPN](https://c.kilxs.cn/?code=DeDcM2lQ)、[西游云](https://d.xiyou666.xyz/?code=InJTpo14)、[happy猫](https://www.happymao.cat/#/register?code=11F30aL4)、农夫山泉、狗狗加速、Cloud-VPN、WgetCloud、大哥云、Bitz Net、星链云、SSRDOG、杨帆云、极客云、fastlink、泰山、NiceDuck、奶昔（Nexitally）、CyberGuard、白月光、狗狗加速、闪电、三月七、奶优、轻云、千速喵、青云梯、赔钱、泡泡Dog、牧牛云、Eternal Network、飞鸟、光年梯、龙猫云、CAC Apex、夜煞云、YToo歪兔、肥猫云、xgcloud、V2free、XSUS、TAG、STC-SPADES、SpeedCAT闪电猫、红杏、Riolu精灵学院、Cylink次元链接、Coffee Cloud咖啡云 等。
 评选标准与方法论
 
 **本报告在评选这40款工具时，主要考量以下因素：**
@@ -69,3 +69,6 @@ AI解锁：高速访问ChatGPT、Gemini、Claude、Midjourney、Perplexity；Cur
 **价格列表**
 
 ![图片说明](./images/价格.png)
+
+# 夜煞云-VPN
+[👉 夜煞云-VPN 官网注册入口](https://www.night-furyx.com/#/register?code=CgihWgEj)\
