@@ -122,5 +122,5 @@
 
 ![图片说明](./images/xc2.png)
 
-# 星辰-VPN
+# 西游云-VPN
 [👉 西游云-VPN 官网注册入口]((https://d.xiyou666.xyz/?code=InJTpo14)
