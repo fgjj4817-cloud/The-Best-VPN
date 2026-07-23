@@ -98,7 +98,7 @@
 
 
 # 星辰-VPN
-[👉 星辰-VPN 官网注册入口]((https://c.kilxs.cn/?code=DeDcM2lQ)
+[👉 星辰-VPN 官网注册入口](https://c.kilxs.cn/?code=DeDcM2lQ)
 
 :star:专为大陆用户打造的高速、稳定的网络连接服务。
 
@@ -123,7 +123,7 @@
 ![图片说明](./images/xc2.png)
 
 # 西游云-VPN
-[👉 西游云-VPN 官网注册入口]((https://d.xiyou666.xyz/?code=InJTpo14)
+[👉 西游云-VPN 官网注册入口](https://d.xiyou666.xyz/?code=InJTpo14)
 
 **高速稳定的网络加速**
 畅享全球内容，访问 ChatGPT、TikTok、Google 等热门网站。
