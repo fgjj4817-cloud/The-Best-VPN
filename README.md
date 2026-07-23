@@ -235,7 +235,18 @@ IOS、macOS、Android、Windows、路由器、Linux 全面支持\
 节点丰富
 售后及时
 
+**一元测试套餐，先测试在使用更放心**
+
 **价格列表**
 
 ![图片说明](./images/nanocloud.png)
+
+# Phantom云-VPN
+[👉 Phantom云-VPN 官网注册入口](https://pin.dianping.men/auth/register?code=6mJnukj1)
+
+**一元测试套餐，先测试在使用更放心**
+
+**价格列表**
+
+![图片说明](./images/phantom.png)
 
