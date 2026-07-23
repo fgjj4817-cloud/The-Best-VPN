@@ -40,7 +40,8 @@
 
 # 星驰-VPN 亲测好用不卡顿，强烈推荐
 
-[👉 星驰-VPN 官网注册入口](https://invite.xingch.live?code=5511564)\
+[👉 星驰-VPN 官网注册入口](https://invite.xingch.live?code=5511564)
+
 **主要特点包括：**\
 :star:包月不限流量，流量稳定安全。
 
