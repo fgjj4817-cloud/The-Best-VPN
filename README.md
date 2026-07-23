@@ -42,4 +42,4 @@
 
 [👉 星驰-VPN 官网注册入口](https://invite.xingch.live?code=5511564)\
 **价格列表**\
-![图片说明](./image/价格.png)
+![图片说明](./images/价格.png)
