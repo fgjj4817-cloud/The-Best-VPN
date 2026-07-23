@@ -43,7 +43,7 @@
 [👉 星驰-VPN 官网注册入口](https://invite.xingch.live?code=5511564)
 
 **主要特点包括：**\
-:star:包月不限流量，流量稳定安全。
+:star:包月不限流量，流量稳定安全，有专属售后咨询群。
 
 :star:流媒体解锁：支持解锁ChatGPT、YouTube、Netflix、facebook、x等流媒体，提供流畅视频观看体验。
 
