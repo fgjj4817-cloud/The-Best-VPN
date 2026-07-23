@@ -220,3 +220,7 @@ IOS、macOS、Android、Windows、路由器、Linux 全面支持\
 🤝**贴心支持**
 
 专业团队提供即时在线支持，快速解答您的所有疑问。 
+
+**价格列表**
+
+![图片说明](./images/shunchang.png)
