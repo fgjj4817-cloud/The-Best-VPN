@@ -91,3 +91,7 @@ AI解锁：高速访问ChatGPT、Gemini、Claude、Midjourney、Perplexity；Cur
 私密性强：提供高速、私密的网络服务，适合外贸公司、科研人员和科技博主等用户。
 
 客户端支持：自研专属客户端，操作简单，适合新手用户使用。
+
+**价格列表**
+
+![图片说明](./images/yeshayun.png)
